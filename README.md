@@ -145,8 +145,8 @@ python3 dashboard_combined.py
 
 ## 🎥 Video Links
 
-**4-minute video presentation:**
-[ link ]
+**4-minute PPT presentation:**
+https://youtu.be/s9mcpF-C7W4
 
 **4-minute demo:**
-[ link ]
+https://youtu.be/bA_75s23IV0
